@@ -1,0 +1,22 @@
+{
+  "headers": [
+    {
+      "source": "/apps/manifest.plist",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/xml"
+        }
+      ]
+    },
+    {
+      "source": "/apps/BANGBANG.ipa",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/octet-stream"
+        }
+      ]
+    }
+  ]
+}
